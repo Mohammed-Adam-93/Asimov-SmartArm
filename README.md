@@ -28,8 +28,9 @@ The second component is the computation part(MATLAB). This part runs on a laptop
 
 # Demonstarions
 -Forward Kinematics
-https://github.com/user-attachments/assets/40b0808d-128b-40d1-81a5-f01fc7691858
+![Forward Kinematics](https://github.com/user-attachments/assets/40b0808d-128b-40d1-81a5-f01fc7691858)
 -Inverse Kinematics
-https://github.com/user-attachments/assets/03cc67c0-9bd2-4805-af5b-25a588713620
+![Inverse Kinematics](https://github.com/user-attachments/assets/03cc67c0-9bd2-4805-af5b-25a588713620)
+
 # Wiring Diagram
 ![Wiring Diagram](Images/Wiring_Diagram.png)
